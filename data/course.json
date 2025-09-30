@@ -1,0 +1,77 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities"
+    ],
+    [
+      "Humanities",
+      "Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "American Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Classics"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Periodic Literature"
+    ]
+  ],
+  "legacy_uid": "3cacbd0b-f63e-d2e3-6f1f-4cc57bf1bfdb",
+  "instructors": {
+    "content": [
+      "2493bf95-e261-dd66-be15-abca8a9d7b4e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c8844458-b99f-6073-22ac-69be5b4884c8",
+    "website": "21l-715-media-in-cultural-context-fall-2015"
+  },
+  "course_title": "Media in Cultural Context",
+  "hide_download": true,
+  "course_description": "This seminar is about the pleasures and power of reading. From the Sumerian clay tablets of more than four millenia ago through the spectacular emergence of the electronic text, the written word\u2014in all its forms\u2014has captivated the human mind, embodied our insights into the world around us, and made enduring our most profound artistic creations and scientific discoveries.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "CMS.871",
+  "primary_course_number": "21L.715",
+  "course_image_thumbnail": {
+    "content": "9865691a-0e98-8210-54d7-eda2fa3ec25c",
+    "website": "21l-715-media-in-cultural-context-fall-2015"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "2dddc531-1554-4032-b619-4a9dc0745471",
+  "site_short_id": "21l.715-fall-2015",
+  "site_url_path": "courses/21l-715-media-in-cultural-context-fall-2015",
+  "title": "Course Metadata"
+}
