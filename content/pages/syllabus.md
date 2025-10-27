@@ -2,8 +2,6 @@
 content_type: page
 description: This page contains the course syllabus, overview, meeting times, and
   details about the grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -27,7 +25,7 @@ Two subjects in [Literature](./resolveuid/2247dfeede7968af4abe886d3c840bd2) or [
 Course Overview
 ---------------
 
-This seminar is about the pleasures and powers of reading. From the Sumerian clay tablets of more than four millennia ago through the spectacular emergence of the electronic text, the written word—in all its forms—has captivated the human mind, embodied our insights into the world around us, and made enduring our most profound artistic creations and scientific discoveries. This semester we journey into the history of the book by means of some of its most resonant artifacts, past and present. Weekly “lab” sessions in [MIT Library’s Special Collections](https://libraries.mit.edu/archives/) will allow students to dig deep into historical books and other media through a series of special projects and case studies. Students will have the opportunity to present on their readings and research in a variety of forms.
+This seminar is about the pleasures and powers of reading. From the Sumerian clay tablets of more than four millennia ago through the spectacular emergence of the electronic text, the written word—in all its forms—has captivated the human mind, embodied our insights into the world around us, and made enduring our most profound artistic creations and scientific discoveries. This semester we journey into the history of the book by means of some of its most resonant artifacts, past and present. Weekly “lab” sessions in {{% resource_link "3589933d-70ce-4e69-848f-279bc41fee0a" "MIT Library’s Special Collections" %}} will allow students to dig deep into historical books and other media through a series of special projects and case studies. Students will have the opportunity to present on their readings and research in a variety of forms.
 
 Grading
 -------
